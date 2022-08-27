@@ -2186,11 +2186,11 @@ input, select, textarea {
 
 
 		#name{
-			color: #bd8382;
+			color: rgb(233, 177, 22);
 
 		}
 		#name:hover{
-			color: #eab5a3;
+			color: rgb(238, 205, 113);
 
 		}
 
